@@ -2,18 +2,18 @@ import React, {useState} from 'react';
 import NavBar from './NavBar';
 import About from './pages/About';
 import Contact from './pages/Contact';
-import Home from './pages/Home';
+import Portfolio from './pages/Portfolio';
 import Resume from './pages/Resume';
 
 function PortfolioContainer () {
-    const [currentPage, setCurrentPage] = useState('Home');
+    const [currentPage, setCurrentPage] = useState('About');
 
     function loadPage () {
-        if (currentPage === 'Home') {
-            return <Home></Home>;
-        }
         if (currentPage === 'About') {
             return <About></About>;
+        }
+        if (currentPage === 'Portfolio') {
+            return <Portfolio></Portfolio>;
         }
         if (currentPage === 'Resume') {
             return <Resume></Resume>;
