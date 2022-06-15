@@ -14,7 +14,7 @@ function ResumeLink(props) {
                 </p>
             </div>
         </div>
-    )
+    );
 }
 
 export default ResumeLink;

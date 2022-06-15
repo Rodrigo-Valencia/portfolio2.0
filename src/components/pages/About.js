@@ -1,4 +1,5 @@
 import React from 'react';
+// import Img from '../../assets/profileImg'
 
 function About () {
     return (
@@ -6,7 +7,7 @@ function About () {
             <h2 className='myName'>Rodrigo Valencia</h2>
             <div className='row justify-content-center'>
                 <div className='col-10' id='aboutSection'>
-                    <img className='mb-5' id='profileImg' src='' alt='Rodrigo Valencia'></img>
+                    <img className='mb-5' id='profileImg' src='../../assets/profileImg.jpg' alt='Rodrigo Valencia'></img>
                     <p>A Software Engineer ready to take on the world. </p>
 
                 </div>
