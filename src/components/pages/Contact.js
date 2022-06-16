@@ -39,12 +39,12 @@ function ContactPage () {
                     <input className='formInput' type='text' name='name' defaultValue={name} onBlur={controlChange}></input>
                 </div>
                 <div className='mt-5'>
-                    <label htmlFor='email'>Email Address:</label>
+                    <label htmlFor='email'>Email:</label>
                     <input className='formInput' type='email' name='email' defaultValue={email} onBlur={controlChange}></input>
                 </div>
                 <div className='mt-5'>
                     <label htmlFor='message'>Message:</label>
-                    <input className='formInput' name='message' defaultValue={message} onBlur={controlChange}></input>
+                    <input className='formInput' id='messageBox' name='message' defaultValue={message} onBlur={controlChange}></input>
                 </div>
                 {errorMessage && (
                     <div>

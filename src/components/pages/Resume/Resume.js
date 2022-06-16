@@ -15,7 +15,7 @@ function Resume () {
             </div>
             <ResumeCard id='card-data'>
                 {resume.map((resume) => (
-                    <Index key={resume.id} img={resume.img} name={resume.name} github={resume.github} launch={resume.launch}></Index>
+                    <Index key={resume.id} img={resume.img} github={resume.github} launch={resume.launch}></Index>
                 ))}
             </ResumeCard>
         </div>

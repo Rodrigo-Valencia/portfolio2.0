@@ -1,25 +1,24 @@
 [{
     "id": 1,
-    "name": "Test",
-    "img": "",
-    "github": "",
-    "launch": "",
-    "details": "test"
+    "name": "Riddle-Me-This?",
+    "img": "https://github.com/Rodrigo-Valencia/Riddle-Me-This/blob/main/assets/img/Screenshot.png",
+    "github": "https://github.com/Rodrigo-Valencia/Riddle-Me-This",
+    "launch": "https://morning-sierra-98445.herokuapp.com/",
+    "details": "Node.js, Express, MySQL, Handlebars.js"
 },
 {
     "id": 2,
-    "name": "test",
+    "name": "Tech Blog (MVC)",
     "img": "",
-    "github": "",
-    "launch": "",
-    "details": "test"
+    "github": "https://github.com/Rodrigo-Valencia/Tech-Blog",
+    "launch": "https://rodrigo-valencia.github.io/Tech-Blog/",
+    "details": "Model-View-Controllers, Handlebars.js, Dynamic HTML"
 },
 {
     "id": 3,
-    "name": "test",
+    "name": "E Commerce Back End",
     "img": "",
-    "github": "",
-    "launch": "",
-    "details": "test"
+    "github": "https://github.com/Rodrigo-Valencia/E-Commerce-Back-End",
+    "details": "Sequelize ORM, Node.js, MySQL, CRUD Methods"
 }
 ]

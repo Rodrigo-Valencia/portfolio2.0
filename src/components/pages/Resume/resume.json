@@ -1,7 +1,6 @@
 [{
     "id": 1,
-    "name": "Test",
-    "img": "",
+    "img": "../../assets/profileImg.jpg",
     "github": "",
     "launch": ""
 }

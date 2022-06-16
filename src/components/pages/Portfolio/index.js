@@ -9,8 +9,8 @@ function ProjectLinks(props) {
             <div className="projectContent">
                 <p className="projectTitle" id="linkTitle">{props.name}</p>
                 <p id="projectIcons">
-                    <a href={props.github}> <img src=''></img> </a>
-                    <a href={props.launch}> <img src=''></img> </a>
+                    <a href={props.github}> <img src='https://img.icons8.com/material-outlined/24/undefined/github.png'></img> </a>
+                    <a href={props.launch}> <img src='https://img.icons8.com/material-outlined/24/undefined/launched-rocket.png'></img> </a>
                 </p>
                 <p id="details">
                     ({props.details})

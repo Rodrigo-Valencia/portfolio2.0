@@ -9,3 +9,9 @@ body {
     text-align: center;
 }
 
+
+
+#messageBox {
+    height: 100px;
+    width: 350px;
+}

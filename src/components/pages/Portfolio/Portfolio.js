@@ -15,7 +15,7 @@ function Portfolio () {
             </div>
             <PortfolioCards id='card-data'>
                 {portfolio.map((project) => (
-                    <Index key={project.id} img={project.img} name={project.name} github={project.github} launch={project.launch} details={project.details} />
+                    <Index key={project.id} name={project.name} github={project.github} launch={project.launch} details={project.details} />
                 ))}
             </PortfolioCards>
         </div>
