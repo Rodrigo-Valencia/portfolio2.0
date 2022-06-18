@@ -4,7 +4,7 @@ function ProjectLinks(props) {
     return (
         <div className="card" >
             <div className="imgContainer">
-                <img alt={props.name} src={props.img}></img>
+                <img id='portfolioImg' alt={props.name} src={props.img} />
             </div>
             <div className="projectContent">
                 <p className="projectTitle" id="linkTitle">{props.name}</p>
