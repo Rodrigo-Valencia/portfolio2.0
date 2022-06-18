@@ -1,7 +1,7 @@
 [{
     "id": 1,
     "name": "Riddle-Me-This?",
-    "img": "https://github.com/Rodrigo-Valencia/Riddle-Me-This/blob/main/assets/img/Screenshot.png",
+    "img": "https://raw.githubusercontent.com/Rodrigo-Valencia/Riddle-Me-This/main/assets/img/Screenshot.png",
     "github": "https://github.com/Rodrigo-Valencia/Riddle-Me-This",
     "launch": "https://morning-sierra-98445.herokuapp.com/",
     "details": "Node.js, Express, MySQL, Handlebars.js"

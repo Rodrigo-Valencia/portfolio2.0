@@ -9,9 +9,39 @@ body {
     text-align: center;
 }
 
-
-
 #messageBox {
     height: 100px;
     width: 350px;
+}
+
+.cards {
+    padding-top: 50px;
+    justify-content: space-evenly;
+    display: flex;
+    overflow: auto;
+    flex-flow: row wrap;
+    padding: 20px;
+    align-content: flex-start;
+}
+
+.projectContent {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#details {
+    font-size: small;
+    font-style: italic;
+}
+
+#projectIcons {
+    padding: 10px;
+}
+
+ul li {
+    list-style: none;
+}
+
+span {
+    font-weight: bold;
 }
