@@ -1,7 +1,6 @@
 [{
     "id": 1,
-    "img": "../../assets/profileImg.jpg",
-    "github": "",
-    "launch": ""
+    "img": "",
+    "github": "https://github.com/Rodrigo-Valencia"
 }
 ]
