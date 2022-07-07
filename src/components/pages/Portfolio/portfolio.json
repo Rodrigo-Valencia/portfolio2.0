@@ -8,11 +8,11 @@
 },
 {
     "id": 2,
-    "name": "Tech Blog (MVC)",
-    "img": "",
-    "github": "https://github.com/Rodrigo-Valencia/Tech-Blog",
-    "launch": "https://rodrigo-valencia.github.io/Tech-Blog/",
-    "details": "Model-View-Controllers, Handlebars.js, Dynamic HTML"
+    "name": "Lucky Duck",
+    "img": "https://raw.githubusercontent.com/CarlBush/Lucky-Duck/main/client/src/pages/assets/background-map.png",
+    "github": "https://github.com/CarlBush/Lucky-Duck",
+    "launch": "https://scenic-great-basin-78312.herokuapp.com/",
+    "details": "NoSQL database, React single-page application, GraphQL APIs, JWT"
 },
 {
     "id": 3,
